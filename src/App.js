@@ -1,5 +1,3 @@
-import './App.css';
-
 import Markdown from "./Markdown";
 
 function App() {
